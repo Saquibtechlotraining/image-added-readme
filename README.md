@@ -16,7 +16,8 @@
 
 ![1585915330553](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/ea270507-31b9-4994-9bde-13e7aa594bb7)
 
-![20231014192243sst](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/a0be3300-4eed-4696-98f6-d76e13f132e9)
+![20231014191727sst (1)](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1ec20a3f-86a8-4173-a748-58dde03f411c)
+
 
 
 
