@@ -18,7 +18,7 @@
 
 ![20231014191727sst (1)](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1ec20a3f-86a8-4173-a748-58dde03f411c)
 
-
+![logo_jupyter](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/374df33a-5473-41f5-9708-3e2c3db6dd39)
 
 
 
