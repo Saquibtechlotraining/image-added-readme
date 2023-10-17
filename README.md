@@ -33,6 +33,8 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/4366829a-cb83-4e71-8c8e-622998222c66)
+
 
 
 
