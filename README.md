@@ -1,35 +1,37 @@
 # image-added-readme
 
 
-![download](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/21dd9e28-efcf-4bfb-ab84-1bc0146fab17)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![images](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/5557b119-6f2a-4295-a36e-e874b5a1e4f1)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![4248443](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/3ddc9509-a47e-4c8d-b512-6775580375df)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-![2318736](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/d5bd013a-880e-4f77-a264-5750db067f2c)
-
-![idcrAE_djX](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/447af0be-426e-4e94-b52b-0468177509e9)
-
-![5968364](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/5ba23a6b-b817-4ea7-8cf2-d11d2347cc64)
-
-
-![1585915330553](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/ea270507-31b9-4994-9bde-13e7aa594bb7)
-
-![20231014191727sst (1)](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1ec20a3f-86a8-4173-a748-58dde03f411c)
-
-![logo_jupyter](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/374df33a-5473-41f5-9708-3e2c3db6dd39)
-
-<img width="94" alt="app-icon" src="https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/f41f880c-6eec-4642-a931-2c9c56300187">
-
-![icon_PyCharm](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/48447e14-a60d-4285-b12f-bc4831eb1e68)
-
-![microsoft_dg7gmgf0m80j_0002_001](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/e600c1f6-00e7-4fff-853f-a18783ccc23e)
-
-![1520178379069](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/b8d4a8c8-a299-44e0-9865-5d97918ff6eb)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
