@@ -49,6 +49,9 @@
 
 ![E-COM Screenshot-2](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/16143b51-82ac-4796-a409-9c2cfda603b1)
 
+![offer-gen_page-0001](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/9048e8a5-5a91-40ce-97b0-baad8f85ac23)
+
+
 
 
 
