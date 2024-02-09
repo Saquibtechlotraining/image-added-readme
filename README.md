@@ -64,10 +64,8 @@
 ![Screenshot 2024-02-06 164252](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/b4f07fee-7513-43f8-8215-364d39d190fb)
 
 
+![Screenshot 2024-02-10 003137](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/931b1d19-53c5-4c05-98c8-5367bbf7efe9)
 
-
-
-![Screenshot 2024-02-06 171154](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/c9b36e2a-4afb-448d-97e4-e353b46bb37f)
 
 
 
